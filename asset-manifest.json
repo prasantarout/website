@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.f4c88188.js",
-    "static/media/profiles.jpg": "/static/media/profiles.2151207eb6e13f79bf6d.jpg",
-    "static/media/exam.png": "/static/media/exam.169365859bc123b6019c.png",
-    "static/media/fitnation.png": "/static/media/fitnation.86dd9bdf2ab90770ea2f.png",
-    "static/media/aggey.png": "/static/media/aggey.7253439bd7eda341999f.png",
-    "static/media/girki.png": "/static/media/girki.3555f94d9acbaac89fae.png",
-    "static/media/profile.jpg": "/static/media/profile.9758357fd7d06b7aeddb.jpg",
-    "static/media/billing.jpeg": "/static/media/billing.a3f87a2b4d24237bcf89.jpeg",
-    "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.f4c88188.js.map": "/static/js/main.f4c88188.js.map"
+    "main.css": "/website/static/css/main.bf538fe7.css",
+    "main.js": "/website/static/js/main.d1941f0a.js",
+    "static/media/profiles.jpg": "/website/static/media/profiles.2151207eb6e13f79bf6d.jpg",
+    "static/media/exam.png": "/website/static/media/exam.169365859bc123b6019c.png",
+    "static/media/fitnation.png": "/website/static/media/fitnation.86dd9bdf2ab90770ea2f.png",
+    "static/media/aggey.png": "/website/static/media/aggey.7253439bd7eda341999f.png",
+    "static/media/girki.png": "/website/static/media/girki.3555f94d9acbaac89fae.png",
+    "static/media/profile.jpg": "/website/static/media/profile.9758357fd7d06b7aeddb.jpg",
+    "static/media/billing.jpeg": "/website/static/media/billing.a3f87a2b4d24237bcf89.jpeg",
+    "index.html": "/website/index.html",
+    "main.bf538fe7.css.map": "/website/static/css/main.bf538fe7.css.map",
+    "main.d1941f0a.js.map": "/website/static/js/main.d1941f0a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.f4c88188.js"
+    "static/js/main.d1941f0a.js"
   ]
 }
